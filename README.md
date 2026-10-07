@@ -1,4 +1,4 @@
-# Borusan Otomotiv – Veri & AI Odaklı Prototip
+# Borusan – Veri & AI Odaklı Prototip
 
 Streamlit + MySQL kullanan, doğal dille sorgulanabilen bir müşteri/araç/servis
 memnuniyeti prototipi. `Vibe Coding` yaklaşımıyla hızlı kurulup denenebilecek
